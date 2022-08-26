@@ -8,7 +8,7 @@ This is the official code release for RP-net. It is the deep-learning system of 
 
 
 ## Dataset
-Download the dataset from [DATASET](https://drive.google.com/file/d/1C-Ryh5W5FLPenNgPUDNcNwiac-NnwU1A/view?usp=sharing) into the data folder. It should follow the structure as shown below.
+Download the dataset from [DATASET](https://drive.google.com/file/d/1C-Ryh5W5FLPenNgPUDNcNwiac-NnwU1A/view?usp=sharing) into the data folder. It should follow the structure as shown below. You can use this [repository](https://github.com/Kshitizbansal/pointillism-multi-radar-data) to visualize the dataset. 
 
 About `300` frames are provided from each sensor for `48` different scenes. Each frame is time synchronized among all the sensors using system timestamps. 
 
