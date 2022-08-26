@@ -57,3 +57,15 @@ It is recommended to train the model for at least **200** epochs to achieve the 
 
 ## Interpreting the Results
 The performance metrics are three MAP values and loss values. The three MAP values correspond to IoU thresholds of 0.5, 0.1, and 0.01. 
+
+## Citation 
+
+```
+@inproceedings{bansal2020pointillism,
+  title={Pointillism: accurate 3D bounding box estimation with multi-radars},
+  author={Bansal, Kshitiz and Rungta, Keshav and Zhu, Siyuan and Bharadia, Dinesh},
+  booktitle={Proceedings of the 18th Conference on Embedded Networked Sensor Systems},
+  pages={340--353},
+  year={2020}
+}
+```
