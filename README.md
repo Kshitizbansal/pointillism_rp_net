@@ -51,7 +51,7 @@ Create an account on [comet.ml](https://www.comet.com) in order to monitor perfo
 ## Training RP-net
 1. Make sure you are in the **pointillism** directory.
 1. (Not required with docker) Run ```./build_and_install.sh```. This installs the necessary libraries required for training. 
-2. Run ```python3 LLP-net.py``` to start training the model.
+2. Run ```python3 RP-net.py``` to start training the model.
 
 It is recommended to train the model for at least **200** epochs to achieve the best results.
 
