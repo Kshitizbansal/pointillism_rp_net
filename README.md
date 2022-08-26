@@ -46,7 +46,7 @@ Build and run the docker image by running this command:
 ```
 
 ## Comet ML
-Create an account on [comet.ml](https://www.comet.com) in order to monitor performance metrics as the model is training. In the file **LLP-net.py**, on line 190, enter the API key, project name, and workspace corresponding to the comet account. The API key can be found in Settings -> Developer Information.
+Create an account on [comet.ml](https://www.comet.com) in order to monitor performance metrics as the model is training. In the file **RP-net.py**, on line 235, enter the API key, project name, and workspace corresponding to the comet account. The API key can be found in Settings -> Developer Information.
 
 ## Training RP-net
 1. Make sure you are in the **pointillism** directory.
