@@ -1,0 +1,9 @@
+*pycache*/
+net/*pycache*/
+data/**
+runs/*
+archive_runs/*
+pointnet2.egg-info
+*.npy
+*.pyc
+*.egg
